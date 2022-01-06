@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zinat.
 - 👀 I’m interested in CSS and sociology of international migration. 
 - 🌱 I’m currently learning NLP, Python, Julia and R and looking for PhD admission.
-- 💞️ I’m looking to collaborate on the subject of CSS. 
+- 💞️ I’m looking to collaborate on the subject of computational thematic analysis and grounded theory. 
 - 📫 How to reach me: z.nawfar@gmail.com
 
 <!---

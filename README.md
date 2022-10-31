@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zinat.
-- 👀 I’m interested in data science, visualisation, python, and D3.js. 
-- 🌱 I’m looking for apprenticeships in data and performance analysis, and bussiness intelligence.
+- 👀 I’m interested in data science, visualisation, python, ML, and D3.js. 
 - 📫 How to reach me: z.nawfar@gmail.com
 
 <!---

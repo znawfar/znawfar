@@ -1,7 +1,13 @@
 
 ##  Hi there!
 
-👩‍💻 As a natural problem solver and team player with a passion for data literacy, I have over 7 years of international experience in prescriptive analytics and data visualization using Python, SQL, and big data techniques. I strive to develop innovative analytical approaches that push the boundaries of what's possible with data, whether it's applying geographic, optimization, AI, or statistical functions. If you're looking for a skilled and dedicated data professional to unlock the full potential of your data, let's connect and work together to achieve your goals.
+👩‍💻 
+I’m a data professional passionate about turning complex information into clear, actionable insights. I specialize in data visualization, business intelligence, and advanced analytics, helping organizations make smarter, data-driven decisions.
+
+I enjoy building dashboards that not only look great but also solve real problems. Whether it’s uncovering trends through geographic data, automating workflows, or using AI to optimize processes, I’m focused on creating solutions that drive results and add value.
+
+I’m always learning and looking for ways to improve, and I’m committed to using data to make a meaningful impact in everything I do.
+
  
 ----------------------------------------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me:

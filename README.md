@@ -1,12 +1,11 @@
 
 ##  Hi there!
 
-👩‍💻 
-I’m a data professional passionate about turning complex information into clear, actionable insights. I specialize in data visualization, business intelligence, and advanced analytics, helping organizations make smarter, data-driven decisions.
+👩‍💻 I’m an Automation Developer specialising in Microsoft Power Platform, with experience designing and delivering end-to-end solutions using Power Apps, Power Automate and the wider Microsoft 365 ecosystem.
 
-I enjoy building dashboards that not only look great but also solve real problems. Whether it’s uncovering trends through geographic data, automating workflows, or using AI to optimize processes, I’m focused on creating solutions that drive results and add value.
+I work across the full solution lifecycle, from understanding business requirements and designing workflows through to testing, deployment and ongoing improvement. My experience also includes ALM, CI/CD, SharePoint, Azure, SQL, AI Builder and Copilot.
 
-I’m always learning and looking for ways to improve, and I’m committed to using data to make a meaningful impact in everything I do.
+I enjoy solving complex problems and turning manual processes into simple, reliable solutions.
 
  
 ----------------------------------------------------------------------------------------------------------------------------------------------
